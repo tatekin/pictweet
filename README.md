@@ -1,24 +1,23 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# pictweet
 
-Things you may want to cover:
+写真投稿アプリケーションです。
+![BlueLog](https://gyazo.com/0c3c58618523b5353ef702149a1185bb.png)  
 
-* Ruby version
+## 機能
 
-* System dependencies
+- ユーザー登録・ログイン機能
+- ユーザーマイページ
+- コメント機能
+- ログ一覧機能
+- ログ投稿機能
+- ログ編集機能
+- ログ削除機能
+- ページネーション(Kaminari)
+- 画像投稿機能
 
-* Configuration
+## 開発環境
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Ruby (2.5.1)
+- Rails (5.2.3)
+- MySQL
